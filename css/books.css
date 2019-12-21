@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+    background-color: ghostwhite;
+}
+
+a {
+    text-decoration: none;
+    color: #3a3b3a
+}
+
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #3a3b3a;
+    text-align: center;
+    font-size: 70px;
+    margin-top: 20px;
+}
+
+.FirstSection {
+    height: 500px;
+}
+
+.FirstSection_txt {
+    font-family: 'Roboto', sans-serif;
+    color: #3a3b3a;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+.SecondSection_Books {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #3a3b3a;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    margin-top: 30px;
+}
+
+.top {
+    height: 650px;
+    margin-top: 50px;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.top_text {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #3a3b3a;
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    padding-top: 20px;
+}
+
+.poem_name {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #3a3b3a;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+    font-style: oblique;
+}
+
+.top_description {
+    font-family: 'Roboto', sans-serif;
+    color: #3a3b3a;
+    text-align: center;
+    font-size: 22px;
+    margin-top: 20px;
+    font-style: oblique;
+}
+
+.back {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #ffffff;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+}

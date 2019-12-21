@@ -1,0 +1,163 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+    background-color: ghostwhite;
+}
+
+a {
+    text-decoration: none;
+    color: #3a3b3a
+}
+
+.container {
+    position: relative;
+    width: 1820px;
+    margin: 0 auto;
+}
+
+.LogoSection {
+    height: 300px;
+}
+
+.LogoSection_h1 {
+    font-style: italic;
+    font-size: 100px;
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #3a3b3a;
+}
+
+.LogoSection_text {
+    text-align: center;
+    font-style: italic;
+    font-size: 45px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #3a3b3a;
+}
+
+.CategoriesSection {
+    height: 300px;
+}
+
+.categories_img_txt .categories_img_txt_cont {
+    display: inline-block;
+    text-align: center;
+    padding-left: 226px;
+}
+
+.categories_img_txt .categories_img_txt_cont .categories_img {
+    height: 300px;
+    text-align: center;
+}
+
+.categories_img_txt .categories_img_txt_cont .categories_txt {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.description {
+    padding-top: 50px;
+    background-color: #ffffff;
+    height: 360px;
+    margin-top: 180px;
+}
+
+.description .description_text {
+    font-family: 'Roboto', sans-serif;
+    color: #3a3b3a;
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.description .description_text1 {
+    font-family: 'Roboto', sans-serif;
+    color: #3a3b3a;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    padding-top: 30px;
+}
+
+.description .description_text2 {
+    font-family: 'Roboto', sans-serif;
+    color: yellowgreen;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    padding-top: 30px;
+}
+
+.top {
+    height: 2000px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.top_text3 {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #3a3b3a;
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+.top_text {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #3a3b3a;
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+.poem_name {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #3a3b3a;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+    font-style: oblique;
+}
+
+.top_description {
+    font-family: 'Roboto', sans-serif;
+    color: #3a3b3a;
+    text-align: center;
+    font-size: 22px;
+    margin-top: 20px;
+    font-style: oblique;
+}
+
+.top_text4 {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #3a3b3a;
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+.qiwi {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
+    background-color: #ffffff;
+}
+
+.qiwi .qiwi_txt {
+    color: yellowgreen;
+}
+
